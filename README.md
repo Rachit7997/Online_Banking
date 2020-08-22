@@ -1,4 +1,4 @@
-# Secure Banking System
+# Online Banking
 
 Technology Stack: **Java, SpringMVC, MySQL**
 
